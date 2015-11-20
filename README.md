@@ -5,6 +5,11 @@
 ##What is FishBun
 FishBun is Image Picker for android.
 
+##What's New 0.1.2v
+####● you can slect ActionBar color and StatusBar color(StatusBar - over API21)
+
+####● if you pick only one image, do not show number on image.
+
 ##How to Use FishBun
 
 ###Gradle
@@ -15,7 +20,7 @@ FishBun is Image Picker for android.
     
     
     dependencies {
-        compile 'com.sangcomz:FishBun:0.0.2@aar'
+        compile 'com.sangcomz:FishBun:0.1.2@aar'
     }
 
 ###Manifest
